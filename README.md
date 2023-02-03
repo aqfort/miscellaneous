@@ -1,2 +1,1 @@
-# miscellaneous
-Storage for miscellaneous code
+# Storage for miscellaneous code
